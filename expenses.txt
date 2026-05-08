@@ -1,0 +1,3 @@
+CVS Pharmacy,Prescriptions,45.99,2026-05-01
+Piedmont Hospital,Doctor Visits,120.00,2026-05-02
+BlueCross Insurance,Insurance,150.00,2026-05-05
